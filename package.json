@@ -1,0 +1,14 @@
+{
+  "name": "amt-music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@distube/youtube": "^1.0.0",
+    "discord.js": "^14.15.3",
+    "distube": "^5.0.2",
+    "express": "^4.19.2"
+  }
+}
